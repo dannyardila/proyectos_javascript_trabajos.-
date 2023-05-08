@@ -7,6 +7,8 @@
 
 <img src="img/proyecto11.png">
 
-# Se observa ya una calculadora ya mas decorada y con los ultimos detalles de diseño, ademas la opcion de claro o oscuro
+# Se observa ya una calculadora ya mas decorada y con los ultimos detalles de diseño, ademas la opcion de claro o oscuro.
 
 <img src="img/proyecto12.png">
+<img src="img/proyecto13.png">
+
