@@ -4,7 +4,8 @@
 <img src="img/proyecot14.png">
 
 
-## ejemplos de cvariables var
+## ejemplos de variables en la suma de dos numeros
+
 
 <img src="img/proyecto15.png">
 
