@@ -51,4 +51,8 @@
 <img src="img/proyecto17.png">
 
 
-## 
+## Por ultimo el menu lateral queda completamente funcionable, y con un estilo, el cual se puede modificar.
+
+<img src="img/proyecto18.png">
+
+# Proyecto 3
