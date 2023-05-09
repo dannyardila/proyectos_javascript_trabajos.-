@@ -18,6 +18,9 @@
 
 
 
+# Proyecto 1
+## calculadora
+
 
 
 
@@ -35,3 +38,10 @@
 <img src="img/proyecto12.png">
 <img src="img/proyecto13.png">
 
+
+# Proyecto 2
+# Menu lateral
+
+## Se hace el diseño de este menu y se le agregan los titulos y opciones que va a llevar.
+
+<img src="img/proyecto16.png">

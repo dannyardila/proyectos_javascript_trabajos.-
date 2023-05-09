@@ -6,7 +6,7 @@
     transition: all 0.8s ease;
   }
   body {
-    background: linear-gradient(45deg, #f06291, #fffde7);
+    background: linear-gradient(45deg, #e7d807, #41e410);
   }
   .container {
     height: 100vh;
@@ -22,8 +22,8 @@
     width: auto;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px rgb(187, 130, 130);
-    background-color: #fff;
+    box-shadow: 0 0 30px rgb(39, 233, 0);
+    background-color: #000000;
     #display {
       color: #0a1e23;
       margin: 0 10px;
@@ -41,7 +41,7 @@
     }
     #clear {
       background-color: #ffd5d8;
-      color: #fc4552;
+      color: #5ad309;
     }
     .btn-number {
       background-color: #c3eaff;
@@ -49,7 +49,7 @@
     }
     .btn-operator {
       background-color: #ffd0fb;
-      color: #f967f3;
+      color: #020202;
     }
     .btn-equal {
       background-color: #adf9e7;

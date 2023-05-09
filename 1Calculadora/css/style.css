@@ -7,7 +7,7 @@
   }
   
   body {
-    background: linear-gradient(45deg, #f06291, #fffde7);
+    background: linear-gradient(45deg, #ee0707, #000000);
   }
   
   .container {
@@ -25,8 +25,8 @@
     width: auto;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px rgb(187, 130, 130);
-    background-color: #fff;
+    box-shadow: 0 0 30px rgb(55, 219, 69);
+    background-color: #000000;
     /* dark theme */
   }
   .calculator #display {
