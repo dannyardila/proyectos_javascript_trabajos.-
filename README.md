@@ -57,7 +57,7 @@
 
 # Proyecto 3
 
-Toggle 
+# Toggle 
 
 ## Se hace la maquetacion del toggle, y ejemplo del texto que va a aparecer en el toggle
 
@@ -70,4 +70,16 @@ Toggle
 ## por ultimo se vincula el texto con el boton y eso hara que  al presionar el boton, aparezca respectivo texto
 
 <img src="img/proyecto21.png">
+
+# Dark theme 4
+
+## Switch cambia de color
+
+## se hace un diseño del switch
+
+<img src="img/proyecto22.png">
+
+
+## se implementan funcionalidad a el swicht y se le da decoracion
+<img src="img/proyecto23.png">
 
