@@ -1,3 +1,25 @@
+# Teoria
+## Hace un pequeño ejemplo de hola mundo
+
+<img src="img/proyecot14.png">
+
+
+## ejemplos de cvariables var
+
+<img src="img/proyecto15.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
 # se colocan los botones de la calculadora y su respectivo funcionamiento
 
 <img src="img/proyecto1.png">
