@@ -70,3 +70,4 @@ Toggle
 ## por ultimo se vincula el texto con el boton y eso hara que  al presionar el boton, aparezca respectivo texto
 
 <img src="img/proyecto21.png">
+
