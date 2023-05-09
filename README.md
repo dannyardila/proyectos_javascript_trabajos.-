@@ -45,3 +45,10 @@
 ## Se hace el diseño de este menu y se le agregan los titulos y opciones que va a llevar.
 
 <img src="img/proyecto16.png">
+
+## se le da un estilo al menu lateral y se le agregan iconos de las determinadas funciones, ademas se le da un funcionaidad a el menu.
+
+<img src="img/proyecto17.png">
+
+
+## 
