@@ -56,3 +56,17 @@
 <img src="img/proyecto18.png">
 
 # Proyecto 3
+
+Toggle 
+
+## Se hace la maquetacion del toggle, y ejemplo del texto que va a aparecer en el toggle
+
+<img src="img/proyecto19.png">
+
+## se vincula el texto, de la pagina con el respectivo toggle y se le da una maquetacion
+
+<img src="img/proyecto20.png">
+
+## por ultimo se vincula el texto con el boton y eso hara que  al presionar el boton, aparezca respectivo texto
+
+<img src="img/proyecto21.png">
