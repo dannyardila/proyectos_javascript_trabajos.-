@@ -96,3 +96,8 @@
 
 ## se le añade decoracion a esta pagina web "colores"
 <img src="img/proyecto27.png">
+
+## Se añade la funcionalidad y el respectivo boton del menu lateral "ultimos retoques" y el resposite web designe 
+
+<img src="img/proyecto28.png">
+<img src="img/proyecto29.png">
