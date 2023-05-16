@@ -83,3 +83,7 @@
 ## se implementan funcionalidad a el swicht y se le da decoracion
 <img src="img/proyecto23.png">
 
+## Se le da un diseño final  a el switch y tambien la respectiva funcionalidad de cambiar el color de la pantalla 
+<img src="img/proyecto24.png">
+<img src="img/proyecto25.png">
+
